@@ -1,0 +1,22 @@
+C:\Users\User\source\repos\winform8\winform8\bin\Debug\winform8.exe.config
+C:\Users\User\source\repos\winform8\winform8\bin\Debug\winform8.exe
+C:\Users\User\source\repos\winform8\winform8\bin\Debug\winform8.pdb
+C:\Users\User\source\repos\winform8\winform8\obj\Debug\winform8.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\winform8\winform8\obj\Debug\winform8.Form1.resources
+C:\Users\User\source\repos\winform8\winform8\obj\Debug\winform8.Properties.Resources.resources
+C:\Users\User\source\repos\winform8\winform8\obj\Debug\winform8.csproj.GenerateResource.cache
+C:\Users\User\source\repos\winform8\winform8\obj\Debug\winform8.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\winform8\winform8\obj\Debug\winform8.exe
+C:\Users\User\source\repos\winform8\winform8\obj\Debug\winform8.pdb
+C:\Users\aan12\OneDrive - 전라북도교육청\새 폴더\문서\2학년2학기\윈도우프로그래밍\winform8\winform8\bin\Debug\winform8.exe.config
+C:\Users\aan12\OneDrive - 전라북도교육청\새 폴더\문서\2학년2학기\윈도우프로그래밍\winform8\winform8\bin\Debug\winform8.exe
+C:\Users\aan12\OneDrive - 전라북도교육청\새 폴더\문서\2학년2학기\윈도우프로그래밍\winform8\winform8\bin\Debug\winform8.pdb
+C:\Users\aan12\OneDrive - 전라북도교육청\새 폴더\문서\2학년2학기\윈도우프로그래밍\winform8\winform8\obj\Debug\winform8.csproj.AssemblyReference.cache
+C:\Users\aan12\OneDrive - 전라북도교육청\새 폴더\문서\2학년2학기\윈도우프로그래밍\winform8\winform8\obj\Debug\winform8.csproj.SuggestedBindingRedirects.cache
+C:\Users\aan12\OneDrive - 전라북도교육청\새 폴더\문서\2학년2학기\윈도우프로그래밍\winform8\winform8\obj\Debug\winform8.Form1.resources
+C:\Users\aan12\OneDrive - 전라북도교육청\새 폴더\문서\2학년2학기\윈도우프로그래밍\winform8\winform8\obj\Debug\winform8.Properties.Resources.resources
+C:\Users\aan12\OneDrive - 전라북도교육청\새 폴더\문서\2학년2학기\윈도우프로그래밍\winform8\winform8\obj\Debug\winform8.csproj.GenerateResource.cache
+C:\Users\aan12\OneDrive - 전라북도교육청\새 폴더\문서\2학년2학기\윈도우프로그래밍\winform8\winform8\obj\Debug\winform8.csproj.CoreCompileInputs.cache
+C:\Users\aan12\OneDrive - 전라북도교육청\새 폴더\문서\2학년2학기\윈도우프로그래밍\winform8\winform8\obj\Debug\winform8.exe
+C:\Users\aan12\OneDrive - 전라북도교육청\새 폴더\문서\2학년2학기\윈도우프로그래밍\winform8\winform8\obj\Debug\winform8.pdb
+C:\Users\aan12\OneDrive - 전라북도교육청\새 폴더\문서\2학년2학기\윈도우프로그래밍\winform8\winform8\obj\Debug\winform8.Form3.resources
